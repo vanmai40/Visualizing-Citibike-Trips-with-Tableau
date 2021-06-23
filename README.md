@@ -24,22 +24,22 @@ The dataset was measured in September 2018 with the following attributes
 
 ## Visualizations
 ### Most Popular End  and Start Stations
-  Plot most popular end stations.
+  Plot most popular end stations.  
   Using filters to show only Stations with more than 4000 Counts
 
 ### Average Trip Duration
-  Stacked Barchar for mean Strip duaration in seconds 
+  Stacked Barchar for mean Strip duaration in seconds   
   Looking at distribution of different gender
 
 ### Distribution of Common End Stations on Popular Start Stations
-  Plotting start stations.
-  Using filters to limit start stations plot to most popular stations.
+  Plotting start stations.  
+  Using filters to limit start stations plot to most popular stations.  
   Using filters to look at the distribution of most common end stations on the previously plotted popular start stations.
   
 ### Start and Stop Times with Segmentations
-  Looking at the distribution of number of trip starts for each hour of the day.
-  Looking at the distribution of number of trip stops for each hour of the day.
-  Segmenting the plots for Gender and End Stations
+  Looking at the distribution of number of trip starts for each hour of the day.  
+  Looking at the distribution of number of trip stops for each hour of the day.  
+  Segmenting the plots for Gender and End Stations 
 
 
 ## Tools:
